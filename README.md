@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/assignment-2/master)
 
-### Due Date: 2/6 by the start of class
+### Due Date: 2/13 by the start of class
 
 ## Recommended Readings
 
