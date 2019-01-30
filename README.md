@@ -17,7 +17,7 @@
 
 ## Part 1: Setting up GitHub for assignment submission
 
-We'll be using a new workflow for submitting assignments starting this week. Each week I will provide a GitHub link
+We'll be using a new workflow for submitting assignments starting with this assignment. Each assignment, I will provide a GitHub link
 to the week's repository. Each student will have their own private repository on GitHub where the assignment can be
 submitted.
 
@@ -73,12 +73,14 @@ Datasets with timestamped entries will be particularly good for analysis, but th
 - [Shooting victims](https://www.opendataphilly.org/dataset/shooting-victims)
 - [L+I Violations](https://www.opendataphilly.org/dataset/licenses-and-inspections-violations)
 
+and many more... 
+
 For OpenDataPhilly datasets, data files can be downloaded in the form of CSV files.
 
 ### Part 3.2: Exploring and generating the charts
 
 From within a Jupyter notebook, you should explore the
-datasets generating visualizations of different aspects of the data.
+datasets and generate charts visualizing different aspects of the data.
 
 **Requirements:**
 
@@ -91,7 +93,7 @@ datasets generating visualizations of different aspects of the data.
   - The following techniques should be used at least once:
     - A transformation (mean, count, binning, etc)
     - Brush selection
-    - **Extra credit**: 2-chart dashboard, where filtering of one chart cross-filters the other chart
+    - **Extra credit**: 2-chart dashboard, where filtering of one chart cross-filters the other chart (via `transform_filter()`)
 - A short discussion (a sentence or two) of the main conclusion of each chart (in a markdown cell below each chart). It does not need to be interesting or insightful, but it is good practice to always note the main conclusions so the notebook make sense after time passes.
 
 ## Submission
