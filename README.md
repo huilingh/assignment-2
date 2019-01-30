@@ -39,16 +39,16 @@ Below are some references if you need help:
 
 ## Part 2: Installing the necessary dependencies
 
-You will need to update the `musa` conda environment created as part of last week's assignment. The necessary dependencies are listed in the [dependencies/environment.yml](dependencies/environment.yml) file in this repository.
+You will need to update the `musa` conda environment created as part of last week's assignment. The necessary dependencies are listed in the [conda-environment.yml](conda-environment.yml) file in this repository.
 
 You can update your conda environment from the command line (**not** from within Python):
 
 ```bash
 conda activate musa
-conda env update -f dependencies/environment.yml
+conda env update -f conda-environment.yml
 ```
 
-Make sure the "dependencies" folder is in the directory that you execute the command from. Note that sometimes it can take a while to "solve" for the environment.
+Make sure the "conda-environment.yml" file is in the directory that you execute the command from. Note that sometimes it can take a while to "solve" for the environment.
 
 And then you are ready to launch a Jupyter notebook and get started:
 
