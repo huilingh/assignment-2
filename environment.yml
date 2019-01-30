@@ -1,6 +1,5 @@
 channels:
   - defaults
-  - pyviz
   - conda-forge
 dependencies:
   - numpy
